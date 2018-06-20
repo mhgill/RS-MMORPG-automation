@@ -1,0 +1,1 @@
+java -Dcom.jagex.config=http://oldschool.runescape.com/l=en/jav_config.ws -jar bot.jar
